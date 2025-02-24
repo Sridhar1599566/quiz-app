@@ -10,3 +10,4 @@ Batch Duration:20 FEB TO 20 MAR
 
 Mentor Name: NEELA SANTHOSH Features Play the Game: Start the quiz by answering multiple-choice questions. View High Scores: See the top scores of players who have played the game. Save Your Score: After completing the quiz, you can enter your username and save your score. 
 screenshot:
+![Image](https://github.com/user-attachments/assets/547bffcf-ccba-4eb9-86b6-38f68e688570)
